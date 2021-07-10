@@ -1,4 +1,3 @@
-
 // install event handler
 self.addEventListener('install', event => {
   event.waitUntil(
@@ -8,6 +7,7 @@ self.addEventListener('install', event => {
         'index.html',
         'styles.css',
         'index.js',
+        'db.js',
         '/icons/icon-72x72.png',
         '/icons/icon-96x96.png',
         '/icons/icon-128x128.png',

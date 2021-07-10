@@ -1,9 +1,9 @@
 {
   "name": "Online/Offline Budget Tracker",
   "short_name": "Budget Tracker",
-  "description": " A place where you can keep track of your spending. Works online and offline.",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "description": "A place where you can keep track of your spending. Works online and offline.",
+  "theme_color": "#ff0000",
+  "background_color": "#ff0000",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
