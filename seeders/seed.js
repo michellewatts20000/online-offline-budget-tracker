@@ -20,17 +20,17 @@ const budgetSeed = [{
   {
     name: 'Milk',
     value: 3,
-    date: new Date(new Date().setDate(new Date().getDate() - 9)),
+    date: new Date(new Date().setDate(new Date().getDate() - 4)),
   },
   {
     name: 'Cheese',
     value: 6,
-    date: new Date(new Date().setDate(new Date().getDate() - 9)),
+    date: new Date(new Date().setDate(new Date().getDate() - 2)),
   },
   {
     name: 'Eggs',
     value: 3,
-    date: new Date(new Date().setDate(new Date().getDate() - 9)),
+    date: new Date(new Date().setDate(new Date().getDate() - 1)),
   }
 ];
 
