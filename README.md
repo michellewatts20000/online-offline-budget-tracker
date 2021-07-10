@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
   ## Description
-  A place where you can add up your budget for the week. Works online and offline.
+  A place where you can keep track of your spending. Works online and offline.
 
   ## Table of Contents
   - [Installation](#installation)
